@@ -1,0 +1,23 @@
+.nav-style {
+  text-align: right;
+  background: rgba(2, 9, 20, 1);
+  padding: 1em;
+  margin: 0;
+}
+
+.nav-style ul {
+  margin: 0;
+  list-style: none;
+}
+
+.nav-style li {
+  list-style: none;
+  display: inline;
+  margin: 0px 10px;
+}
+
+.nav-style a,
+.nav-style a:visited {
+  text-decoration: none;
+  color: white;
+}
